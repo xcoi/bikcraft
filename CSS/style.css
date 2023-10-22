@@ -33,3 +33,6 @@
 /* bicicleta */
 @import "../CSS/bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
+/* orcamento */
+@import "../CSS/orcamento/orcamento.css";
